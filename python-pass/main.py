@@ -38,4 +38,3 @@ checkMyNumbers()
 
 # I hope you understand my code! 🙏
 # This is my first time using Python😅, so I'm not sure if it's the best way to do it. 🤔
-# task finished! 🤩
